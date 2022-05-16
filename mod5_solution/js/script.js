@@ -116,7 +116,7 @@ console.log(this);
       // Hint: you need to surround the chosen category short name with something before inserting
       // it into the home html snippet.
       //
-      var homeHtmlToInsertIntoMainPage = insertProperty(homeHtml,
+      var homeHtmlToInsertIntoMainPage = insertProperty(categoryHtml,
        "randomCategoryShortName", chosenCategoryShortName)
 //console.log(chooseRandomCategory(categories).homehtml)
 
